@@ -1,8 +1,5 @@
 [![License: MIT][license_badge]][license_link]
 
-<img src="https://github.com/kaminoan-dev/Kilian/assets/97683015/7dfdb808-ffef-4d32-b46c-a22e24ab5d45" />
-<br><br>
-
 ### Kilian is an app that provides accurate time estimates for trekking trails, helping hikers plan their journey with ease.
 
 ## Description
